@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BroadcastRecStateChanges</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_broadcast">CustomBroadcast</string>
+    <string name="title_activity_running_app_names">RunningAppNames</string>
+    <string name="title_activity_running_app_track">RunningAppTrack</string>
+    <string name="title_activity_app_track">AppTrack</string>
+
+</resources>
