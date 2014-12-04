@@ -16,6 +16,15 @@ public final class R {
         public static final int abc_slide_out_bottom=0x7f040004;
         public static final int abc_slide_out_top=0x7f040005;
     }
+    public static final class array {
+        /**  Nav Drawer List Item Icons 
+ Keep them in order as the titles are in 
+         */
+        public static final int nav_drawer_icons=0x7f0c0001;
+        /**  Nav Drawer Menu Items 
+         */
+        public static final int nav_drawer_items=0x7f0c0000;
+    }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 
          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -858,10 +867,16 @@ containing a value of this type.
         public static final int abc_split_action_bar_is_narrow=0x7f060002;
     }
     public static final class color {
-        public static final int abc_search_url_text_holo=0x7f070003;
+        public static final int abc_search_url_text_holo=0x7f070009;
         public static final int abc_search_url_text_normal=0x7f070000;
         public static final int abc_search_url_text_pressed=0x7f070002;
         public static final int abc_search_url_text_selected=0x7f070001;
+        public static final int counter_text_bg=0x7f070007;
+        public static final int counter_text_color=0x7f070008;
+        public static final int list_background=0x7f070004;
+        public static final int list_background_pressed=0x7f070005;
+        public static final int list_divider=0x7f070006;
+        public static final int list_item_title=0x7f070003;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -1077,7 +1092,22 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_launcher=0x7f020057;
+        public static final int button=0x7f020057;
+        public static final int button_states=0x7f020058;
+        public static final int buyads=0x7f020059;
+        public static final int buyicon=0x7f02005a;
+        public static final int coinrate=0x7f02005b;
+        public static final int createatrade=0x7f02005c;
+        public static final int header=0x7f02005d;
+        public static final int home=0x7f02005e;
+        public static final int ic_launcher=0x7f02005f;
+        public static final int line=0x7f020060;
+        public static final int locaation=0x7f020061;
+        public static final int navigationmenu=0x7f020062;
+        public static final int navmenu=0x7f020063;
+        public static final int sellads=0x7f020064;
+        public static final int sellcoin=0x7f020065;
+        public static final int tabbg=0x7f020066;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1091,20 +1121,28 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f050016;
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
-        public static final int action_settings=0x7f05003c;
+        public static final int action_settings=0x7f050048;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
+        public static final int btnbuyads=0x7f050042;
+        public static final int btnlocation=0x7f050044;
+        public static final int btnsellads=0x7f050043;
         public static final int checkbox=0x7f05002d;
+        public static final int coinrate=0x7f050045;
         public static final int collapseActionView=0x7f05000d;
+        public static final int container=0x7f050040;
         public static final int default_activity_button=0x7f050028;
         public static final int dialog=0x7f05000e;
         public static final int disableHome=0x7f050008;
+        public static final int drawer_layout=0x7f05003d;
         public static final int dropdown=0x7f05000f;
         public static final int edit_query=0x7f050030;
         public static final int end=0x7f050013;
         public static final int expand_activities_button=0x7f050026;
         public static final int expanded_menu=0x7f05002c;
+        public static final int frag_layout=0x7f050046;
+        public static final int frame_container=0x7f05003e;
         public static final int home=0x7f050014;
         public static final int homeAsUp=0x7f050005;
         public static final int icon=0x7f05002a;
@@ -1112,13 +1150,16 @@ containing a value of this type.
         public static final int image=0x7f050027;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f050029;
+        public static final int list_slidermenu=0x7f05003f;
         public static final int middle=0x7f050012;
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
+        public static final int pager=0x7f05003c;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
+        public static final int realtabcontent=0x7f050047;
         public static final int search_badge=0x7f050032;
         public static final int search_bar=0x7f050031;
         public static final int search_button=0x7f050033;
@@ -1136,6 +1177,7 @@ containing a value of this type.
         public static final int split_action_bar=0x7f05001e;
         public static final int submit_area=0x7f050039;
         public static final int tabMode=0x7f050002;
+        public static final int tabs=0x7f050041;
         public static final int title=0x7f05002b;
         public static final int top_action_bar=0x7f050020;
         public static final int up=0x7f050021;
@@ -1192,11 +1234,30 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030015;
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
-        public static final int activity_front=0x7f030018;
-        public static final int support_simple_spinner_dropdown_item=0x7f030019;
+        public static final int activity_buy_ads_fragment=0x7f030018;
+        public static final int activity_front=0x7f030019;
+        public static final int activity_location_fragment=0x7f03001a;
+        public static final int activity_sell_ads_fragment=0x7f03001b;
+        public static final int drawer_list_item=0x7f03001c;
+        public static final int fragment_buy_ads=0x7f03001d;
+        public static final int fragment_buy_coin_fragment=0x7f03001e;
+        public static final int fragment_create_trade_fragment=0x7f03001f;
+        public static final int fragment_home_fragment=0x7f030020;
+        public static final int fragment_location=0x7f030021;
+        public static final int fragment_sell_ads=0x7f030022;
+        public static final int fragment_sell_coin_fragment=0x7f030023;
+        public static final int support_simple_spinner_dropdown_item=0x7f030024;
+        public static final int tablayout=0x7f030025;
     }
     public static final class menu {
-        public static final int front=0x7f0c0000;
+        public static final int buy_ads=0x7f0d0000;
+        public static final int buy_coin=0x7f0d0001;
+        public static final int create_trade=0x7f0d0002;
+        public static final int front=0x7f0d0003;
+        public static final int home=0x7f0d0004;
+        public static final int location=0x7f0d0005;
+        public static final int sell_ads=0x7f0d0006;
+        public static final int sell_coin=0x7f0d0007;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1241,7 +1302,17 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
         public static final int action_settings=0x7f0a000f;
         public static final int app_name=0x7f0a000d;
+        /**  Content Description 
+         */
+        public static final int desc_list_item_icon=0x7f0a0010;
         public static final int hello_world=0x7f0a000e;
+        public static final int title_activity_buy_ads_fragment=0x7f0a0015;
+        public static final int title_activity_buy_coin_fragment=0x7f0a0012;
+        public static final int title_activity_create_trade_fragment=0x7f0a0014;
+        public static final int title_activity_home_fragment=0x7f0a0011;
+        public static final int title_activity_location_fragment=0x7f0a0017;
+        public static final int title_activity_sell_ads_fragment=0x7f0a0016;
+        public static final int title_activity_sell_coin_fragment=0x7f0a0013;
     }
     public static final class style {
         /** 
@@ -1267,7 +1338,6 @@ containing a value of this type.
          */
         public static final int AppBaseTheme=0x7f0b008b;
         /**  Application theme. 
- All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f0b008c;
         /**  Mimic text appearance in select_dialog_item.xml 
@@ -1472,6 +1542,11 @@ containing a value of this type.
         public static final int Widget_AppCompat_ProgressBar=0x7f0b000a;
         public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f0b0009;
         public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0b0022;
+        public static final int bold_text=0x7f0b008f;
+        /**  		<item name="android:background">@android:color/transparent</item> 
+         */
+        public static final int textbold=0x7f0b008d;
+        public static final int textregular=0x7f0b008e;
     }
     public static final class styleable {
         /**  ============================================ 

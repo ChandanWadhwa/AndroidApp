@@ -15,6 +15,24 @@
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:icon">@android:color/transparent</item>
+    </style>
+    
+    <style name="textbold" >
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textStyle">bold</item>
+<!-- 		<item name="android:background">@android:color/transparent</item> -->
+	</style>
+	<style name="textregular" >
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textStyle">normal</item>
+		
+	</style>
+	
+	<style name="bold_text">
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>
