@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [AndroidVideoStreaming:libstreaming:unspecified] /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/exploded-aar/AndroidVideoStreaming/libstreaming/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+		INJECTED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:15:9-57
+supports-screens
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:18:5-22:40
+	android:largeScreens
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:19:9-36
+	android:smallScreens
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:21:9-36
+	android:normalScreens
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:20:9-37
+	android:xlargeScreens
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:22:9-37
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:24:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:26:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:27:22-62
+application
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:29:5-44:19
+	android:label
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:33:9-40
+activity#info.androidhive.androidvideostreaming.MainActivity
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:34:9-43:20
+	android:screenOrientation
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:37:13-50
+	android:label
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:35:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/AndroidManifest.xml:41:27-74

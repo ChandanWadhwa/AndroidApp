@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="18"
+    density="hdpi"
+    format="7"
+    timestamp="17998751021575"
+    token="-2603859264665429334" >
+
+    <task
+        name="javac"
+        duration="60" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="230" />
+    <task
+        name="verifier"
+        duration="59" />
+
+    <artifact
+        location="/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/outputs/apk/androidVideoStreaming-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="17998751021575" >
+        <artifact
+            location="/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/outputs/apk/androidVideoStreaming-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

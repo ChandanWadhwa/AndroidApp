@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ico_screen_resolution.png",
+        "source": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/drawable-xxhdpi/ico_screen_resolution.png"
+    },
+    {
+        "merged": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ico_unmute.png",
+        "source": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/drawable-xxhdpi/ico_unmute.png"
+    },
+    {
+        "merged": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ico_pause.png",
+        "source": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/drawable-xxhdpi/ico_pause.png"
+    },
+    {
+        "merged": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ico_mute.png",
+        "source": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/drawable-xxhdpi/ico_mute.png"
+    },
+    {
+        "merged": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ico_play.png",
+        "source": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/drawable-xxhdpi/ico_play.png"
+    },
+    {
+        "merged": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ico_settings.png",
+        "source": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/drawable-xxhdpi/ico_settings.png"
+    }
+]

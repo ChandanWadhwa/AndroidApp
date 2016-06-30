@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b02e02d3350e66f953cdd7a6d2dead775de7d88">
+        <dex dex="/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ee021d2e2688ad2ec04473725d0afec3dc857b5b.jar" />
+    </item>
+    <item
+        jar="/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c04d1776db0d297e05d0328e8ee899df723a22f">
+        <dex dex="/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/pre-dexed/debug/instant-run_41f6f55070db74566200cc753e72581126018e6b.jar" />
+    </item>
+    <item
+        jar="/Users/Balraj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/pre-dexed/debug/support-v4-19.1.0_0c187b3bcfb82b8c45c4b6b1a2ee3e8f8a7cc4e8.jar" />
+    </item>
+
+</items>

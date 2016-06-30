@@ -1,0 +1,262 @@
+[
+    {
+        "outputFile": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 38,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 57,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 55,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 52,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 52,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 43,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 43,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 37,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 37,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 83,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 83,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 43,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 43,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 29,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "/Users/Balraj/Documents/AndroidStudioWorkspace/AndroidVideoStreaming/androidVideoStreaming/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 454
+                    }
+                }
+            }
+        ]
+    }
+]
