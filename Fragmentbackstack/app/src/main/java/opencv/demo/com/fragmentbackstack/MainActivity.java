@@ -48,11 +48,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void addFragment(String fragmentName,Fragment frg)
     {
         Fragment frag_A=frg;
-        FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-        ft.replace(R.id.layout_fragment, frag_A,fragmentName);
-        //ft.replace(resId, fragmentB);
-        ft.addToBackStack(fragmentName);
-        ft.commit();
+        if(getSupportFragmentManager().findFragmentByTag(fragmentName)==null) {
+            FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
+            ft.replace(R.id.layout_fragment, frag_A, fragmentName);
+            //ft.replace(resId, fragmentB);
+            ft.addToBackStack(fragmentName);
+            ft.commit();
+        }
     }
 
     @Override
